@@ -144,8 +144,8 @@ button {
 
 .burger {
   display: block;
-  width: fit-content;
-  height: fit-content;
+  width: 42px;
+  height: 28px;
   margin-left: auto;
   border: none;
   cursor: pointer;
@@ -272,7 +272,7 @@ button {
 .intro__img {
   display: block;
   width: 245px;
-  height: fit-content;
+  height: 245px;
   position: absolute;
   top: -40px;
   right: -117px;
@@ -479,6 +479,7 @@ button {
   }
   .intro__img {
     width: 410px;
+    height: 410px;
     top: 140px;
     right: -180px;
   }
@@ -607,6 +608,7 @@ button {
   }
   .intro__img {
     width: 435px;
+    height: 435px;
     right: 0;
     top: 0;
   }
@@ -722,6 +724,7 @@ button {
   }
   .intro__img {
     width: 560px;
+    height: 560px;
     right: 35px;
   }
   .intro__img--pseudo::before {
